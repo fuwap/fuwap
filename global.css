@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "OCR A";
+  src: url("../public/OCR-A Regular.ttf");
+  font-weight: 400;
+}
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-ocr-a: "OCR A";
+
+  /* font sizes */
+  --font-size-sm: 20px;
+  --font-size-base: 58px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-gray: #707070;
+}

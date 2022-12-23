@@ -1,0 +1,63 @@
+.layer1Icon {
+  position: absolute;
+  top: 42px;
+  left: 787.63px;
+  width: 344.75px;
+  height: 48.2px;
+}
+.p {
+  margin: 0;
+}
+.retailItemsAnimationAndVid {
+  position: absolute;
+  top: 105px;
+  left: 21px;
+  display: inline-block;
+}
+.topaz1Icon {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  width: 87.29px;
+  height: 87.29px;
+}
+.sHUFFLE {
+  position: absolute;
+  top: 25.5px;
+  left: 122.5px;
+  cursor: pointer;
+}
+.magnusTheAmuletHaveTheEt {
+  position: absolute;
+  bottom: 57px;
+  left: 12px;
+  width: 558px;
+  height: 701px;
+  object-fit: cover;
+}
+.bipglunkCheeser97Icon {
+  position: absolute;
+  right: 78px;
+  bottom: 15px;
+  width: 626px;
+  height: 834px;
+  object-fit: cover;
+}
+.analogueIcon {
+  position: absolute;
+  top: 118px;
+  left: 603px;
+  width: 580px;
+  height: 850px;
+  object-fit: cover;
+}
+.slide9 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1080px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray);
+  font-family: var(--font-ocr-a);
+}

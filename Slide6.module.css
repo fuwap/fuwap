@@ -1,0 +1,80 @@
+.layer1Icon {
+  position: absolute;
+  top: 42px;
+  left: 787.63px;
+  width: 344.76px;
+  height: 48.2px;
+}
+.p {
+  margin: 0;
+}
+.retailItemsAnimationAndVid {
+  position: absolute;
+  top: 105px;
+  left: 21px;
+  display: inline-block;
+}
+.potentiallyDisturbingImagery {
+  position: absolute;
+  bottom: 9px;
+  left: 17px;
+  width: 372px;
+  height: 771px;
+  object-fit: cover;
+}
+.aReionizedUniverseInstallat {
+  position: absolute;
+  right: 19px;
+  bottom: 78px;
+  width: 483px;
+  height: 369px;
+}
+.unknownDialecticDialectsDi {
+  position: absolute;
+  top: 94px;
+  right: 270px;
+  width: 417px;
+  height: 527px;
+  object-fit: cover;
+}
+.the93rdInfinite {
+  position: absolute;
+  top: 129px;
+  left: 447px;
+  width: 726px;
+  height: 897.23px;
+  object-fit: cover;
+}
+.topaz1Icon {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  width: 87.29px;
+  height: 87.29px;
+}
+.sHUFFLE,
+.slide6 {
+  text-align: left;
+  font-family: var(--font-ocr-a);
+}
+.sHUFFLE {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 25.5px;
+  left: 122.5px;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  display: inline-block;
+  -webkit-text-stroke: 1px #000;
+}
+.slide6 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1080px;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray);
+}
